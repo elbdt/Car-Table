@@ -43,6 +43,7 @@ public class Addresses
                     _mainWindow.AllCars.IsEnabled = true;
                     _mainWindow.RareCars.IsEnabled = true;
                     _mainWindow.FreeCars.IsEnabled = true;
+                    _mainWindow.Traffic.IsEnabled = true;
                     _mainWindow.AddAll.IsEnabled = true;
                     _mainWindow.AddRare.IsEnabled = true;
                     _mainWindow.Visual.IsEnabled = true;
@@ -62,6 +63,7 @@ public class Addresses
                     _mainWindow.AllCars.IsEnabled = false;
                     _mainWindow.RareCars.IsEnabled = false;
                     _mainWindow.FreeCars.IsEnabled = false;
+                    _mainWindow.Traffic.IsEnabled = false;
                     _mainWindow.AddAll.IsEnabled = false;
                     _mainWindow.AddRare.IsEnabled = false;
                     _mainWindow.Visual.IsEnabled = false;
