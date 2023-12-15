@@ -206,7 +206,7 @@
                 MinWidth="0"
                 Focusable="False"
                 IsEnabled="False"
-                Click="QuickAdd_OnClick" Margin="0,80,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Grid.Row="1"/>
+                Click=AutoShowFilters_OnClick" Margin="0,80,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Grid.Row="1"/>
 
 
         </Grid>
